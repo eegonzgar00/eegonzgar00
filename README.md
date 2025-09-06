@@ -5,15 +5,6 @@
 
 ---
 
-## 📍 Contact Information
-
-- 🌐 Website: [https://www.yourwebsite.com](https://www.yourwebsite.com)  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- ✉️ Email: yourname@email.com  
-- 📍 Location: Barcelona, Spain  
-
----
-
 ## About Me
 
 I'm a Software Developer with 8+ years of experience in **Java, Spring Boot, and Frontend development**. I have worked on end-to-end projects, designing, implementing, and deploying solutions in cloud environments. Experienced as a **Technical Lead** coordinating agile teams.  
@@ -46,4 +37,10 @@ I enjoy working with modern technologies and DevOps practices to deliver high-qu
 
 ---
 
+## 📍 Contact Information
+
+- 🌐 Website: [https://www.yourwebsite.com](https://www.yourwebsite.com)  
+- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- ✉️ Email: yourname@email.com  
+- 📍 Location: Barcelona, Spain  
 
