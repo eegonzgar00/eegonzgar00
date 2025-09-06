@@ -39,15 +39,6 @@ I enjoy working with modern technologies and DevOps practices to deliver high-qu
 
 ---
 
-## 📌 Pinned Projects
-
-Highlight your most important repositories:
-
-- [Project1](https://github.com/yourusername/project1) – Brief description.  
-- [Project2](https://github.com/yourusername/project2) – Brief description.  
-- [Project3](https://github.com/yourusername/project3) – Brief description.  
-
-*(Tip: Add screenshots, live demos, or links in each repo's README to make them stand out)*  
 
 ---
 
@@ -58,4 +49,4 @@ Highlight your most important repositories:
 
 ---
 
-💡 **Tip:** Keep your GitHub active with small projects and frequent commits to maintain a vibrant profile.
+
