@@ -1,22 +1,22 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# Hi! 👋 I'm Ed
 
-💻 **Java & Full-stack Developer** | Experiencia en React, Spring Boot y DevOps  
-🌟 Apasionado por construir soluciones escalables y eficientes.  
+💻 **Java & Full-stack Developer** | Experienced in React, Spring Boot, and DevOps  
+🌟 Passionate about building scalable and efficient software solutions.  
 
 ---
 
-## 📍 Información de contacto
+## 📍 Contact Information
 
-- 🌐 Website: [https://www.tuweb.com](https://www.tuweb.com)  
-- 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- ✉️ Email: tuemail@correo.com  
+- 🌐 Website: [https://www.yourwebsite.com](https://www.yourwebsite.com)  
+- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- ✉️ Email: yourname@email.com  
 - 📍 Location: Barcelona, Spain  
 
 ---
 
 ## About Me
 
-I'm a Software Developer with 8+ years of experience in **Java, Spring Boot and Frontend development**. I have worked on end-to-end projects, designing, implementing and deploying solutions in cloud environments. Experienced as a **Technical Lead** coordinating agile teams.  
+I'm a Software Developer with 8+ years of experience in **Java, Spring Boot, and Frontend development**. I have worked on end-to-end projects, designing, implementing, and deploying solutions in cloud environments. Experienced as a **Technical Lead** coordinating agile teams.  
 
 I enjoy working with modern technologies and DevOps practices to deliver high-quality software.  
 
@@ -41,20 +41,21 @@ I enjoy working with modern technologies and DevOps practices to deliver high-qu
 
 ## 📌 Pinned Projects
 
-Aquí puedes agregar tus repositorios más representativos:
+Highlight your most important repositories:
 
-- [Proyecto1](https://github.com/tuusuario/proyecto1) – Breve descripción del proyecto.  
-- [Proyecto2](https://github.com/tuusuario/proyecto2) – Breve descripción del proyecto.  
-- [Proyecto3](https://github.com/tuusuario/proyecto3) – Breve descripción del proyecto.  
+- [Project1](https://github.com/yourusername/project1) – Brief description.  
+- [Project2](https://github.com/yourusername/project2) – Brief description.  
+- [Project3](https://github.com/yourusername/project3) – Brief description.  
 
-*(Tip: Agrega capturas, demos o links en el README de cada repo para que luzca más profesional)*  
+*(Tip: Add screenshots, live demos, or links in each repo's README to make them stand out)*  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
+💡 **Tip:** Keep your GitHub active with small projects and frequent commits to maintain a vibrant profile.
