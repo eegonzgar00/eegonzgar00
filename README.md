@@ -39,9 +39,6 @@ I enjoy working with modern technologies and DevOps practices to deliver high-qu
 
 ---
 
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
