@@ -40,7 +40,7 @@ I enjoy working with modern technologies and DevOps practices to deliver high-qu
 ## 📍 Contact Information
 
 - 🌐 Website: [https://www.yourwebsite.com](https://www.yourwebsite.com)  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 🔗 LinkedIn: [https://linkedin.com/in/edgonzalez01](https://www.linkedin.com/in/edgonzalez01)  
 - ✉️ Email: yourname@email.com  
 - 📍 Location: Barcelona, Spain  
 
