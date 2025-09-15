@@ -41,6 +41,6 @@ I enjoy working with modern technologies and DevOps practices to deliver high-qu
 
 - 🌐 Website: [https://www.yourwebsite.com](https://www.yourwebsite.com)  
 - 🔗 LinkedIn: [https://linkedin.com/in/edgonzalez01](https://www.linkedin.com/in/edgonzalez01)  
-- ✉️ Email: yourname@email.com  
+- ✉️ Email: tvcarnitas@gmail.com  
 - 📍 Location: Barcelona, Spain  
 
